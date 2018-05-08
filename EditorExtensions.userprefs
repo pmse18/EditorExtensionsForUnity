@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BasicAttributesScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BasicAttributesScript.cs" Line="17" Column="95" />
+      <File FileName="Assets\Scripts\MenuItems.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MyWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CustomScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\CustomScriptEditor.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
